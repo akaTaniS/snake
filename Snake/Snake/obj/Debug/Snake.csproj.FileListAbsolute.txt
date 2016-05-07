@@ -1,0 +1,6 @@
+D:\Google Диск\Programming\GeeBrain\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Google Диск\Programming\GeeBrain\Snake\Snake\Snake\bin\Debug\Snake.exe
+D:\Google Диск\Programming\GeeBrain\Snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\Google Диск\Programming\GeeBrain\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Google Диск\Programming\GeeBrain\Snake\Snake\Snake\obj\Debug\Snake.exe
+D:\Google Диск\Programming\GeeBrain\Snake\Snake\Snake\obj\Debug\Snake.pdb
