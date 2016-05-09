@@ -13,10 +13,10 @@ namespace Snake
             Console.SetBufferSize(80, 25);
 
             //Отрисовка рамки
-            HorrizontalLine upLine = new HorrizontalLine(0, 80, 0, '+');
-            HorrizontalLine downLine = new HorrizontalLine(0, 80, 24, '+');
+            HorrizontalLine upLine = new HorrizontalLine(0, 70, 0, '+');
+            HorrizontalLine downLine = new HorrizontalLine(0, 70, 24, '+');
             VerticalLine leftLine = new VerticalLine(0, 24, 0, '+');
-            VerticalLine rightLine = new VerticalLine(0, 24, 80, '+');
+            VerticalLine rightLine = new VerticalLine(0, 24, 70, '+');
             upLine.Drow();
             downLine.Drow();
             leftLine.Drow();
